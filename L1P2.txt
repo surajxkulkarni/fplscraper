@@ -1,33 +1,63 @@
-Jack of all trades, master of none. It is a famous phrase used to describe a generalist, who develop skills in many domains, or in other words focus on breadth . On the other hand we have the specialists, who spend time and effort in developing skills in one particular domain, or in other words focus on depth
+Jack of all trades, master of none. It is a famous phrase used to describe a generalist, who develop skills in many domains, or in other words focus on breadth . On the other hand we have the specialists, who spend time and effort in developing skills in one particular domain, that is, they focus on depth
 
-There has been plenty of debate on which strategy is optimal for career success. Personally, this question has been lingering for several years. Both sides offer unique advantages. So who’s right? Lets find out-
+There has been plenty of debate on which strategy is optimal for career success. Both sides offer unique advantages. So who’s right? 
 
-I’m going to provide two case studies. 
+Good afternoon ladies and gentlemen, I am Suraj Kulkarni, a fresher currently in FCSO. From the time I had to decide my stream in 10th standard, this question has been lingering. I’d like to get to the bottom of this today with you.
 
-Case study number 1 revolves around a young boy growing in Europe was involved in many different sports. His mother was a tennis coach but didnt like playing with him because he always returned the ball in strange and funny ways. He dabbled around in basketball, swimming, skiing and most notably football. In his early teens he started playing tennis again, but by that time his peers had already been years ahead in terms of tennis specific development, with their own trainers and nutritionists. However soon enough he began to outpace his peers and eventually become the best tennis player for almost 2 decades. His name? Any guesses? Roger Federer.
+Lets start our exploration by going over 2 case studies, with a follow up question, so listen carefully.
 
-Case study number 2 is about a child was given a toy golf putter by his father at the age of 10 months. Soon enough he was imitating his father’s golf swing. By the age of 2 he’s on national television. By the age of 4 he’s won an under-10 national golf competition. His father recognised his child’s talent and actively promoted it by engaging his son in deliberate practise. This turned out to be a great approach. He consistently was the best player at his age bracket and this focused approach this led to him being the world champion at the age of just 21.
-Can you guess who this individual is?
-Yes correct, this is the story of one of the greatest golfers the world has ever seen- Tiger woods. 
+Case study number 1 is about a child was given a toy golf putter by his father at the age of 10 months. Soon enough he was imitating his father’s golf swing. By the age of 2 he’s on national television. By the age of 4 he’s won an under-10 national golf competition. His father recognised his child’s talent and actively promoted it by engaging his son in deliberate practise. This turned out to be a great approach. He consistently was the best player at his age bracket and this focused approach this led to him being the world champion at the age of just 21. 
+Can anyone guess who this incredible golfer is?
 
-So which do you think is the better strategy and is likely to succeed in most cases - Roger or Tiger?
+Case study number 2 revolves around a young boy who grew up in Europe and was involved in many different sports. His mother was a tennis coach but didnt like playing with him because he always returned the ball in strange and funny ways. He dabbled around in basketball, swimming, skiing and most notably football. He was never focused on any one sport and tried out many different things. Even when his coaches tried to bump him up to the next level he refused because part of the fun was to spend time with friends after practice. In his early teens he started playing tennis again but by then his peers had already been years ahead in terms of their tennis specific development, having their own coaches, trainers and nutritionists. However soon enough he began to outpace his peers and eventually become the best tennis player for almost 2 decades. 
+His name? Any guesses? Roger Federer.
+
+
+Alright so here’s the question for you. Which do you think is the better strategy and is likely to succeed in most cases? Can we have hands for the Roger approach? And now for the Tiger approach.
+
+
+
+
 
 So who’s right? Lets dig deeper
+The advocates of specialists often align with famous author - Malcolm Gladwell. In his book, Outliers, Gladwell explains that to become an expert at anything, you must spend 10,000 hours of deliberate practice. Following its corollary - specialising early is an advantage as you can clock more hours in deliberate practice ahead of your slower competitors. He argues that the best chess grandmasters or golfers display this and this can be extended to any other field as well. Thats quite convincing, but lets look at the other side..
 
-The advocates of specialists often align with renowned author - Malcolm Gladwell. In his book, Outliers, Gladwell explains that to become an expert at anything, you must spend 10,000 hours of deliberate practice. Thus its corollary - specialising early is an advantage as you can clock more hours in deliberate practice ahead of your slower competitors. He argues that the best chess grandmasters or golfers, like Tiger woods, display this and this can be extended to any other field as well. Thats quite convincing..
+On the other we hand we have the generalists, led by David Epstein, author of best selling book - Range. David agrees with Malcolm wrt the examples he provided - chess and golf. However he argues that the same logic cannot be extended to other domains. Turns out golf is a horrible model to generalise into other domains. Golf is the epitome of kind learning environments - where rules are fixed, where goals and next steps that are clear, when you do something feedback is quick and accurate, work this year looks just like work last year. On the other hand we have wicked learning environments - rules can change, next steps are unclear, and feedback may be delayed or inaccurate, and work this year may not look like work last year.
 
-On the other we hand we have the generalists, led by David Epstein, author of best selling book - Range. David agrees with Malcolm with  the examples he provided - chess and golf. However he argues that the same logic cannot be extended to other domains. Turns out golf is a horrible example to model most things in our lives. Golf is the epitome of kind learning environments - where rules are fixed, where goals and next steps that are clear, when you do something feedback is quick and accurate, work this year is like work last year. On the other hand we have wicked learning environments - rules can change, next steps are unclear, and feedback may be delayed or inaccurate, and work this year may not look like work last year.
+I think its quite clear which model resembles the world we’re increasingly living in?
 
-Which model do you think resembles the world we’re currently living in?
+Now I’d like to bring your attention to the following graph.
 
-So lets discuss a little bit about some of the reasons why generalists have an edge 
 
-Firstly, you develop a broad range of skills which are transferrable. This provides a unique advantage over early specialisers. Consider Claude Shannon. He was studying electrical engineering when took a philosophy course just to fulfil a requirement. There he came across a system of logic where True and False statement were encoded as 1s and 0s. Combining his knowledge from engineering, it led to the development of binary code.
 
-Secondly, you undergo a sampling period. As mentioned in the case study, Federer explored many sports and only then selected tennis. This is what we call match quality. For example even the greatest musicians have a sampling period. They dont usually learn an instrument and solely stick to that.
 
-Another key observation is that hyperspecialisation narrows your problem solving ability. As you go deeper and deeper you get exposed to only certain types of problems. Your cognitive flexibility declines, your approach becomes very procedural and your vision myopic.
+This graph shows the full picture, which we dont usually see. Prodigy stories are fascinating to hear and are great for the headlines, but they are not the norm to achieve success and be the best. In fact this could backfire as we will find out. That is why a more nuanced analysis is crucial, one which we are undertaking.
 
-Generalisation might be even more applicable in the current landscape of knowledge work, where everything is changing rapidly, technologies are evolving by the day. Tools like ChatGPT are just the beginning. These are extremely wicked environments. The generalists are better equipped for this climate.
+So lets discuss a little bit about some of the reasons why generalists have an edge- 
+Number 1: You develop a broad range of skills which are transferrable. This provides a unique advantage over early specialisers. Consider Claude Shannon. He was studying electrical engineering. He took a philosophy course just to fulfil a requirement. There he came across an ancient system of logic where True and False statement were encoded as 1s and 0s, which was developed by George boole, but it had no tangible significance until Shannon Combined his knowledge from engineering, which led to the development of binary code, the birth of modern computing. Steve Jobs audited a calligraphy class in college, which he later credited to be the inspiration for Apple's beautiful typography.
 
-One of the earliest recorded use of the phrase “Jack of all trades ” as an insult dates back to 1592. It was used as a jab on a poet who did not have a university education, who involved in various roles, like copying scripts and bit-part acting, even trying to write plays. The poet being referred to: Willian Shakepeare. The phrase has evolved over time to just “Jack of all trades, master of none”. What we dont know, is that the original full length version is - “Jack of all trades, master of none, but oftentimes better than a master of one”
+Number2: You undergo a sampling period. As mentioned in the case study, Federer explored many sports and only then selected tennis. This allows us to align our skills and interest more appropriately. This is what we call match quality. 
+
+My own journey with music almost accurately resembles the pattern displayed by an average musician where I spent a lot of time playing my first instrument, the keyboard followed by far lesser time on guitar and finally barely any time on my 3rd instrument- the trumpet. And I should clarify that I am indeed an average musician at best XD. On the other hand we observe that the elite musicians spend far less time on their first instrument they move onto the 2nd and subsequent instuments
+
+Number3: Hyperspecialisation narrows your problem solving ability. As you go deeper and deeper you only get exposed to certain type of problems. You cognitive flexibility declines and as soon as you are confronted with a problem slightly outside your domain, you’re lost. Your approach becomes very procedural and your vision myopic.
+
+In the aftermath of the 2008 crisis a key observation was the degree of segregation within big banks. Innumerable specialised silos operating to optimize risk in their own tiny pieces of the big picture. This created a catastrophe. Overspecialisation can lead to disaster even if each individual is taking the most reasonable action.
+
+Ok so now a question you must be thinking. I’m not a tennis player, or a chess grandmaster, or a musician, what should I take from this?
+
+The current landscape of knowledge work is very fast paced, technologies are evolving by the day. Tools like ChatGPT are just the beginning. These are extremely wicked environments. The generalists are better equipped for this climate.
+
+One concern is that we are often told that our career path should look like a neat trajectory, and that employees will view our varied backgrounds as a liability. However LinkedIn’s own reseach found that one of the strongest predictors of who will eventually become an executive is the number of job functions a person has worked across.
+
+Another thing to consider is the nature of your job. If it resembles chess where there are recurring patterns, work this year looks exactly like last year, ie kind learning environments, specialisation will be the better approach. In wicked learning environments however I do believe that generalists have the edge.
+
+What i'd like to highlight is that this is not a discussion for athletes or musicians or their coaches. It is something all of us should think about - at an individual level, how to develop our own careers, what strategy to adopt while raising children; and at an organization level, how to organize teams to prevent incidents like the 2008 crisis.
+
+One of the earliest recorded use of the phrase “Jack of all trades ” as an insult dates back to 1592. It was used as a jab on a poet who did not have a university education, who involved in various roles, like copying scripts and bit-part acting, even trying to write plays. The poet being referred to:a young Willian Shakepeare. The phrase has evolved over time to just “Jack of all trades, master of none”. What we dont know, is that the original full length version is - “Jack of all trades, master of none, but oftentimes better than a master of one”
+
+Thank you
+
+Now before I hand the stage back to XYZ I’d like to thank a few people. Firstly I’d like to thank the ACE community for giving me this opportunity. Next I’d like to thank you all for being here and being a great audience. I’d also like to acknowledge Toastmasters, which gave me a platform to develop my public speaking and communications skills and have the confidence to do this today! Finally I’d also like to give credit to David Epstein author of the book - Range, from where I got most of my knowledge on this topic
+
+Now I’d like to hand the stage back to XYZ
